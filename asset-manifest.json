@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BlogPlatzi-deploy/static/css/main.c0d32bc8.chunk.css",
+    "main.js": "/BlogPlatzi-deploy/static/js/main.7831c8d1.chunk.js",
+    "main.js.map": "/BlogPlatzi-deploy/static/js/main.7831c8d1.chunk.js.map",
+    "runtime-main.js": "/BlogPlatzi-deploy/static/js/runtime-main.73e786c6.js",
+    "runtime-main.js.map": "/BlogPlatzi-deploy/static/js/runtime-main.73e786c6.js.map",
+    "static/css/2.89f067aa.chunk.css": "/BlogPlatzi-deploy/static/css/2.89f067aa.chunk.css",
+    "static/js/2.ce53b978.chunk.js": "/BlogPlatzi-deploy/static/js/2.ce53b978.chunk.js",
+    "static/js/2.ce53b978.chunk.js.map": "/BlogPlatzi-deploy/static/js/2.ce53b978.chunk.js.map",
+    "index.html": "/BlogPlatzi-deploy/index.html",
+    "precache-manifest.7cedc28c81273fc19d8b9e239a98809e.js": "/BlogPlatzi-deploy/precache-manifest.7cedc28c81273fc19d8b9e239a98809e.js",
+    "service-worker.js": "/BlogPlatzi-deploy/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/BlogPlatzi-deploy/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.c0d32bc8.chunk.css.map": "/BlogPlatzi-deploy/static/css/main.c0d32bc8.chunk.css.map",
+    "static/js/2.ce53b978.chunk.js.LICENSE.txt": "/BlogPlatzi-deploy/static/js/2.ce53b978.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e786c6.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.ce53b978.chunk.js",
+    "static/css/main.c0d32bc8.chunk.css",
+    "static/js/main.7831c8d1.chunk.js"
+  ]
+}
