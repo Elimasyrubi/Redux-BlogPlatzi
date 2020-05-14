@@ -22,3 +22,6 @@ y muchos temas mas relacionados con [Redux](https://es.redux.js.org/ "Redux")
 Cabe destacar que es solo una practica por lo que no se conecta a una base de datos real y no se muestran los resultados de los comandos de "editar",  "eliminar" y "agregar".
 
 **Nota**: no se agrego mucho css ya que ese no era el objetivo del proyecto.
+
+
+Mira el siguiente repositorio donde realice  un [Blog de Notas utilizando React js, Redux y Firebase](https://github.com/Elimasyrubi/notipy "Blog de Notas utilizando React js, Redux y Firebase")
